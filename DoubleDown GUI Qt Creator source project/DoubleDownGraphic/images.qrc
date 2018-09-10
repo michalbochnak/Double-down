@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/board_bg.jpg</file>
+        <file>img/board_square_bright.jpg</file>
+        <file>img/board_square_dark.jpg</file>
+        <file>img/champ.png</file>
+        <file>img/color_bg.jpg</file>
+        <file>img/color_bg.png</file>
+    </qresource>
+</RCC>
